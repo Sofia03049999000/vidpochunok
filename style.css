@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+a{
+text-decoration: none;
+color: black;
+background-color: #FF923F;
+border: 5px solid #FF923F;
+border-radius:8px ;
+margin: 10px;
+font-size: 20px;
+}
+
+footer{
+    background-color:#024C68 ;
+    padding: 7px;
+}
+
+footer p{
+    color: white;
+    text-align: left;
+}
+
+header{
+    background-color: #0776A0;
+}
